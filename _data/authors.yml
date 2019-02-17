@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+pulkit:
+  username: pulkit
+  name: Pulkit Bhutani
+  location: Jaipur, India
+  url_full: False
+  url: False
+  bio: I am a guy interested in podcasts and the way they deliver the message.
+  picture: assets/images/edgar.gif
+  facebook: False
+  twitter: False
+  cover: False
