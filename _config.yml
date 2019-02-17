@@ -23,12 +23,12 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: chaifusion # replace by your username
+facebook: chaifusion # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: disqus_FHZhAKwKZy # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-57252782-5 # replace with your GA tracking identifier
