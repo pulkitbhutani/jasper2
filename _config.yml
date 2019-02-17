@@ -28,7 +28,7 @@ facebook: chaifusion # replace by your username
 
 # Disqus
 disqus: True
-disqus_shortname: disqus_FHZhAKwKZy # replace with your disqus username
+disqus_shortname: storyzest # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-57252782-5 # replace with your GA tracking identifier
