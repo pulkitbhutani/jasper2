@@ -27,7 +27,7 @@ twitter: chaifusion # replace by your username
 facebook: chaifusion # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: disqus_FHZhAKwKZy # replace with your disqus username
 
 # Google Analytics
