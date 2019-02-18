@@ -63,14 +63,14 @@ edgar:
   facebook: False
   twitter: False
   cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
+gunjan:
+  username: gunjan
+  name: Gunjan Methi
+  location: Jaipur, India
   url_full: False
   url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
+  bio: An event organizer passionate about writing and discovering new stories. I have my own co-working space called WorkZoned in Vaishali Nagar, Jaipur and I like to work on new ideas constantly, Do come down to say hi.
+  picture: assets/images/gunjan.jpg
   facebook: False
   twitter: False
   cover: False
