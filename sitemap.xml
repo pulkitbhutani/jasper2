@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/themes</loc>
-<lastmod>2017-07-27T04:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>/private-sites</loc>
-<lastmod>2017-07-27T06:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>/managing-users</loc>
-<lastmod>2017-07-27T07:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>/using-tags</loc>
-<lastmod>2017-07-27T08:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>/the-editor</loc>
 <lastmod>2019-02-08T09:00:00+00:00</lastmod>
 </url>
@@ -33,12 +17,6 @@
 </url>
 <url>
 <loc>/about/</loc>
-</url>
-<url>
-<loc>/tag/getting-started/</loc>
-</url>
-<url>
-<loc>/author/ghost/</loc>
 </url>
 <url>
 <loc>/author/gunjan/</loc>
